@@ -1,4 +1,9 @@
 # git_learning2
-GitHub実践ハンズオン最高!!
+GitHub実践ハンズオン
 
 変更してみたよ！<-追記
+
+developブランチから変更したよ！<-追記
+
+
+ddddddddvelop
